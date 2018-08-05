@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
-**Today Goal: Finish Work Hours template
+**Today Goal***: Finish Work Hours template
 made link to next sheet
 
 **Link to work:** [Work hours](https://docs.google.com/spreadsheets/d/16th2ufixqkitQof7ha9pm7eOcTDeFGrH-_E4Xa---BU/edit?usp=sharing)
