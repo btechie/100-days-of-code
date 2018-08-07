@@ -9,3 +9,7 @@ made link to next sheet
 ### Day 2: August 6, 2018 
 
 limited time. set up some of the tools i will need later.
+
+### Day 3: August 7,2018
+
+Looks like a good day to see how far I can get in freecodecamp
