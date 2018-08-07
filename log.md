@@ -12,4 +12,4 @@ limited time. set up some of the tools i will need later.
 
 ### Day 3: August 7,2018
 
-Looks like a good day to see how far I can get in freecodecamp
+i wash looking for a stopwatch program and i dont find one. i'll see if i can figure out how to make one for mate desktop.
