@@ -6,3 +6,6 @@ made link to next sheet
 
 **Link to work:** [Work hours](https://docs.google.com/spreadsheets/d/16th2ufixqkitQof7ha9pm7eOcTDeFGrH-_E4Xa---BU/edit?usp=sharing)
 
+### Day 2: August 6, 2018 
+
+limited time. set up some of the tools i will need later.
